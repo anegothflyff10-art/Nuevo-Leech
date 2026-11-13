@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Blacklist>
+    <!--
+	
+	Hide Items from Monster Wiki
+	
+    -->
+	
+	<Monster ID="MI_PUKEPUKE5"/>
+	<Monster ID="MI_BANG5"/>
+	<Monster ID="MI_ROCKMUSCLE5"/>
+	<Monster ID="MI_CIRCUSBEAR1"/>
+	<Monster ID="MI_CIRCUSBEAR2"/>
+	<Monster ID="MI_CIRCUSBEAR3"/>
+	<Monster ID="MI_CIRCUSBEAR4"/>
+	<Monster ID="MI_PIRE1"/>
+	<Monster ID="MI_PIRE2"/>
+	<Monster ID="MI_PIRE3"/>
+	<Monster ID="MI_PIRE4"/>
+	<Monster ID="MI_FROZIEST1"/>
+	<Monster ID="MI_FROZIEST2"/>
+	<Monster ID="MI_FROZIEST3"/>
+	<Monster ID="MI_FROZIEST4"/>
+	<Monster ID="MI_BURNBIRD1"/>
+	<Monster ID="MI_BURNBIRD2"/>
+	<Monster ID="MI_BURNBIRD3"/>
+	<Monster ID="MI_BURNBIRD4"/>
+	<Monster ID="MI_BUKETFOOT1"/>
+	<Monster ID="MI_BUKETFOOT2"/>
+	<Monster ID="MI_BUKETFOOT3"/>
+	<Monster ID="MI_BUKETFOOT4"/>
+	<Monster ID="MI_DEMIAN5"/>
+	<Monster ID="MI_KEAKOON5"/>
+	<Monster ID="MI_MUFFRIN5"/>
+	<Monster ID="MI_RAMPAGEBUTCHER1"/>
+	<Monster ID="MI_RAMPAGEBUTCHER2"/>
+	<Monster ID="MI_RAMPAGEBUTCHER3"/>
+	<Monster ID="MI_RAMPAGEBUTCHER4"/>
+	<Monster ID="MI_CLAWDOLL1"/>
+	<Monster ID="MI_CLAWDOLL2"/>
+	<Monster ID="MI_CLAWDOLL3"/>
+	<Monster ID="MI_CLAWDOLL4"/>
+	<Monster ID="MI_MINECATCHER"/>
+	<Monster ID="MI_ERONSCATCHER"/>
+	<Monster ID="MI_KRASECCATCHER"/>
+	<Monster ID="MI_GURUCATCHER"/>
+	<Monster ID="MI_DAMAGETEST"/>
+	<Monster ID="MI_GUARDIAN"/>
+	<Monster ID="MI_CHAOGUARDIAN"/>
+	<Monster ID="MI_PK_FEFERN"/>
+	<Monster ID="MI_PK_WAGSAAC"/>
+	<Monster ID="MI_PK_MRPUMPKIN"/>
+	<Monster ID="MI_PK_GIGGLEBOX"/>
+	<Monster ID="MI_PK_HOBO"/>
+	<Monster ID="MI_PK_CARDPUPPET"/>
+	<Monster ID="MI_PK_BASQUE"/>
+	<Monster ID="MI_PK_LEYENA"/>
+	<Monster ID="MI_PK_STEELKNIGHT"/>
+	<Monster ID="MI_PK_VOLT"/>
+	<Monster ID="MI_PK_GARBAGEPIDER"/>
+	<Monster ID="MI_PK_GREEMONG"/>
+	<Monster ID="MI_PK_HOPPRE"/>
+	<Monster ID="MI_PK_IREN"/>
+	<Monster ID="MI_PK_WATANGKA"/>
+	<Monster ID="MI_PK_LUIA"/>
+	<Monster ID="MI_PK_SHUHAMMA"/>
+	<Monster ID="MI_PK_GLAPHAN"/>
+	<Monster ID="MI_ANTTURTLE"/>
+	<Monster ID="MI_HAMMERKICK"/>
+	<Monster ID="MI_BRIGADIER"/>
+	<Monster ID="MI_LIEUTENANT"/>
+	<Monster ID="MI_SPIKETAIL"/>
+	<Monster ID="MI_GLYPHAXZ"/>
+	<Monster ID="MI_LBHANOYAN"/>
+	<Monster ID="MI_MOMYORN"/>
+	<Monster ID="MI_ANGELRED"/>
+	<Monster ID="MI_ANGELBLUE"/>
+	<Monster ID="MI_ANGELGREEN"/>
+	<Monster ID="MI_ANGELWHITE"/>
+	<Monster ID="MI_EVENT01"/>
+	<Monster ID="MI_EVENT02"/>
+	<Monster ID="MI_EVENT03"/>
+	<Monster ID="MI_EVENT04"/>
+	<Monster ID="MI_MAFL_PATROL"/>
+	<Monster ID="MI_MOCOMOCHI1"/>
+	<Monster ID="MI_CLOCKWORKBUTLER01"/>
+	<Monster ID="MI_PINATA"/>
+	<Monster ID="MI_MZOMBIE"/>
+	<Monster ID="MI_FZOMBIE"/>
+	<Monster ID="MI_NMZOMBIE"/>
+	<Monster ID="MI_NFZOMBIE"/>
+	<Monster ID="MI_TGLUIA01"/>
+	<Monster ID="MI_BURR"/>
+	<Monster ID="MI_SAPHYRYAN"/>
+	<Monster ID="MI_GRAYEARL"/>
+	<Monster ID="MI_EVEROCKEPELLER"/>
+	<Monster ID="MI_EVEMOTHBEE"/>
+	<Monster ID="MI_EVEKALGASBABY"/>
+	<Monster ID="MI_EVENT_FWCMONSTER"/>
+	<Monster ID="MI_CHAMELEON_GREEN"/>
+	<Monster ID="MI_CHAMELEON_BLUE"/>
+	<Monster ID="MI_CHAMELEON_YELLOW"/>
+	<Monster ID="MI_CHAMELEON_RED"/>
+	<Monster ID="MI_CRISTMASGIGLEBOX"/>
+	<Monster ID="MI_GRAYEARL01"/>
+	<Monster ID="MI_AIBATT5"/>
+	<Monster ID="MI_ZOMBIGER5"/>
+	<Monster ID="MI_MRPUMPKIN5"/>
+	<Monster ID="MI_DUMBBULL5"/>
+	<Monster ID="MI_SPAINDRAGON01"/>
+	<Monster ID="MI_MaEw_GUARDIAN01"/>
+	<Monster ID="MI_MaEw_GUARDIAN02"/>
+	<Monster ID="MI_MIA5"/>
+	<Monster ID="MI_CARDPUPPET5"/>
+	<Monster ID="MI_RANGDA05"/>
+	<Monster ID="MI_BEHESTATUE02"/>
+	<Monster ID="MI_BEHESTATUE03"/>
+	<Monster ID="MI_BEHESTATUE04"/>
+	<Monster ID="MI_BEHESTATUE05"/>
+	
+	<Monster ID="MI_RUGALWIND02"/>
+	<Monster ID="MI_RUGALHEAT02"/>
+	
+	<Monster ID="MI_ZOMBIGER1"/>
+	<Monster ID="MI_ZOMBIGER2"/>
+	<Monster ID="MI_ZOMBIGER3"/>
+	<Monster ID="MI_ZOMBIGER4"/>
+	<Monster ID="MI_HADESEOR"/>
+	
+</Blacklist>

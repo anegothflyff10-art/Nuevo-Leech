@@ -1,0 +1,3 @@
+UserID = 0000001, UserName = Kiraa [STA:3032, INT:3027, DEX:3027, STR:3027] stats stat points, login returned
+UserID = 0000001, UserName = Kiraa [STA:3032, INT:3027, DEX:3027, STR:3027] stats stat points, login returned
+UserID = 0000001, UserName = Kiraa [STA:3047, INT:3042, DEX:3042, STR:3042] stats stat points, login returned

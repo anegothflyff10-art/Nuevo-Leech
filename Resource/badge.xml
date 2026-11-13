@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BadgeProp>
+
+	<!-- Do not touch this ! -->
+	<Badge ID="-1"		Req="HI_USE_ITEM" 		Condition="II_BADGE_DEFAULT" 	Amount="1" 		Icon="Default_Icon.png" 		Animated="0"	Name="Default Job Badge" />
+	<Badge ID="0" 		Req="HI_USE_ITEM" 		Condition="II_BADGE_NONE" 		Amount="1" 		Icon="icon_BadgeNoIcon.png" 	Animated="0"	Name="Disable Badge" />
+	
+	<!-- Badges Below -->
+	<Badge ID="1" 		Req="HI_USE_ITEM" 		Condition="II_BADGE01" 		Amount="1" 		Icon="Badge_Name001.dds"	Animated="0"	Name="Sunshine Badge" />
+	<Badge ID="2" 		Req="HI_USE_ITEM" 		Condition="II_BADGE02" 		Amount="1" 		Icon="Badge_Name002.dds"	Animated="0"	Name="Potion Badge" />
+	<Badge ID="3" 		Req="HI_USE_ITEM" 		Condition="II_BADGE03" 		Amount="1" 		Icon="Badge_Name003.dds"	Animated="0"	Name="Love Badge" />
+	<Badge ID="4" 		Req="HI_USE_ITEM" 		Condition="II_BADGE04" 		Amount="1" 		Icon="Badge_Name004.dds"	Animated="0"	Name="Flower Badge" />
+	<Badge ID="5" 		Req="HI_USE_ITEM" 		Condition="II_BADGE05" 		Amount="1" 		Icon="Badge_Name005.dds"	Animated="0"	Name="Scroll Badge" />
+	<Badge ID="6" 		Req="HI_USE_ITEM" 		Condition="II_BADGE06" 		Amount="1" 		Icon="Badge_Name006.dds"	Animated="0"	Name="Sword Badge" />
+	<Badge ID="7" 		Req="HI_USE_ITEM" 		Condition="II_BADGE07" 		Amount="1" 		Icon="Badge_Name007.dds"	Animated="0"	Name="Twitch Badge" />
+	<Badge ID="8" 		Req="HI_USE_ITEM" 		Condition="II_BADGE08" 		Amount="1" 		Icon="Badge_Name008.dds"	Animated="0"	Name="Youtube Badge" />
+	<Badge ID="9" 		Req="HI_USE_ITEM" 		Condition="II_BADGE09" 		Amount="1" 		Icon="Badge_Name009.dds"	Animated="0"	Name="Easter Badge" />
+	<Badge ID="10" 		Req="HI_USE_ITEM" 		Condition="II_BADGE10" 		Amount="1" 		Icon="Badge_Name013.dds"	Animated="0"	Name="EXP Badge" />
+	<Badge ID="11" 		Req="HI_USE_ITEM" 		Condition="II_BADGE11" 		Amount="1" 		Icon="Badge_Name024.dds"	Animated="0"	Name="Magic Badge" />
+	<Badge ID="12" 		Req="HI_USE_ITEM" 		Condition="II_BADGE12" 		Amount="1" 		Icon="Badge_Name035.dds"	Animated="0"	Name="Letter Badge" />
+	<Badge ID="13" 		Req="HI_USE_ITEM" 		Condition="II_BADGE13" 		Amount="1" 		Icon="Badge_Name044.dds"	Animated="0"	Name="Blue Star Badge" />
+	<Badge ID="14" 		Req="HI_USE_ITEM" 		Condition="II_BADGE14" 		Amount="1" 		Icon="Badge_Name045.dds"	Animated="0"	Name="Tree Badge" />
+	<Badge ID="15" 		Req="HI_USE_ITEM" 		Condition="II_BADGE15" 		Amount="1" 		Icon="Badge_Name046.dds"	Animated="0"	Name="Alt F4 Badge" />
+	<Badge ID="16" 		Req="HI_USE_ITEM" 		Condition="II_BADGE16" 		Amount="1" 		Icon="Badge_Name047.dds"	Animated="0"	Name="Emblem Badge" />
+	<Badge ID="17" 		Req="HI_USE_ITEM" 		Condition="II_BADGE17" 		Amount="1" 		Icon="Badge_Name049.dds"	Animated="0"	Name="Orb Badge" />
+	<Badge ID="18" 		Req="HI_USE_ITEM" 		Condition="II_BADGE18" 		Amount="1" 		Icon="Badge_Name050.dds"	Animated="0"	Name="Jewel Badge" />
+	<Badge ID="19" 		Req="HI_USE_ITEM" 		Condition="II_BADGE19" 		Amount="1" 		Icon="Badge_Name053.dds"	Animated="0"	Name="Star Badge" />
+	<Badge ID="20" 		Req="HI_USE_ITEM" 		Condition="II_BADGE20" 		Amount="1" 		Icon="Badge_Name054.dds"	Animated="0"	Name="Blue Fire Badge" />
+	<Badge ID="21" 		Req="HI_USE_ITEM" 		Condition="II_BADGE21" 		Amount="1" 		Icon="Badge_Name055.dds"	Animated="0"	Name="Orange Fire Badge" />
+	<Badge ID="22" 		Req="HI_USE_ITEM" 		Condition="II_BADGE22" 		Amount="1" 		Icon="Badge_Name056.dds"	Animated="0"	Name="Kappa Badge" />
+	<Badge ID="23" 		Req="HI_USE_ITEM" 		Condition="II_BADGE23" 		Amount="1" 		Icon="Badge_Name057.dds"	Animated="0"	Name="Robot Badge" />
+	<Badge ID="24" 		Req="HI_USE_ITEM" 		Condition="II_BADGE24" 		Amount="1" 		Icon="Badge_Name058.dds"	Animated="0"	Name="Pepe Sad Badge" />
+	<Badge ID="25" 		Req="HI_USE_ITEM" 		Condition="II_BADGE25" 		Amount="1" 		Icon="Badge_Name059.dds"	Animated="0"	Name="Escobar Badge" />
+	<Badge ID="26" 		Req="HI_USE_ITEM" 		Condition="II_BADGE26" 		Amount="1" 		Icon="Badge_Name060.dds"	Animated="0"	Name="Valentine Badge" />
+	<Badge ID="27" 		Req="HI_USE_ITEM" 		Condition="II_BADGE27" 		Amount="1" 		Icon="Badge_Name061.dds"	Animated="0"	Name="Soda Badge" />
+	<Badge ID="28" 		Req="HI_USE_ITEM" 		Condition="II_BADGE28" 		Amount="1" 		Icon="Badge_Name062.dds"	Animated="0"	Name="Pepe Cool Badge" />
+	<Badge ID="29" 		Req="HI_USE_ITEM" 		Condition="II_BADGE29" 		Amount="1" 		Icon="Badge_Name097.dds"	Animated="0"	Name="Donut Badge" />
+	<Badge ID="30" 		Req="HI_USE_ITEM" 		Condition="II_BADGE30" 		Amount="1" 		Icon="Badge_Name099.dds"	Animated="0"	Name="Bear Badge" />
+	<Badge ID="31" 		Req="HI_USE_ITEM" 		Condition="II_BADGE31" 		Amount="1" 		Icon="Badge_Name101.dds"	Animated="0"	Name="Cactus Badge" />
+	<Badge ID="32" 		Req="HI_USE_ITEM" 		Condition="II_BADGE32" 		Amount="1" 		Icon="Badge_Name104.dds"	Animated="0"	Name="Giraffe Badge" />
+	<Badge ID="33" 		Req="HI_USE_ITEM" 		Condition="II_BADGE33" 		Amount="1" 		Icon="Badge_Name093.dds"	Animated="0"	Name="Santa Badge" />
+	<Badge ID="34" 		Req="HI_USE_ITEM" 		Condition="II_BADGE34" 		Amount="1" 		Icon="Badge_Name094.dds"	Animated="0"	Name="Snowman Badge" />
+	<Badge ID="35" 		Req="HI_USE_ITEM" 		Condition="II_BADGE35" 		Amount="1" 		Icon="Badge_Name096.dds"	Animated="0"	Name="Cookie Badge" />
+	<Badge ID="36" 		Req="HI_USE_ITEM" 		Condition="II_BADGE36" 		Amount="1" 		Icon="Badge_Name120.dds"	Animated="0"	Name="Weed Badge" />
+	<Badge ID="37" 		Req="HI_USE_ITEM" 		Condition="II_BADGE37" 		Amount="1" 		Icon="Badge_Name184.dds"	Animated="0"	Name="Icecream Badge" />
+	<Badge ID="38" 		Req="HI_USE_ITEM" 		Condition="II_BADGE38" 		Amount="1" 		Icon="Badge_Name182.dds"	Animated="0"	Name="Sunflower Badge" />
+	<Badge ID="39" 		Req="HI_USE_ITEM" 		Condition="II_BADGE39" 		Amount="1" 		Icon="Badge_Name185.dds"	Animated="0"	Name="Kiwi Badge" />
+	<Badge ID="40" 		Req="HI_USE_ITEM" 		Condition="II_BADGE40" 		Amount="1" 		Icon="Badge_Name186.dds"	Animated="0"	Name="Watermelon Badge" />
+	<Badge ID="41" 		Req="HI_USE_ITEM" 		Condition="II_BADGE41" 		Amount="1" 		Icon="Badge_Name095.dds"	Animated="0"	Name="Cake Badge" />
+	<Badge ID="42" 		Req="HI_USE_ITEM" 		Condition="II_BADGE42" 		Amount="1" 		Icon="Badge_Name169.dds"	Animated="0"	Name="Potter Badge" />
+	<Badge ID="43" 		Req="HI_USE_ITEM" 		Condition="II_BADGE43" 		Amount="1" 		Icon="Badge_Name135.dds"	Animated="0"	Name="Torch Badge" />
+	<Badge ID="44" 		Req="HI_USE_ITEM" 		Condition="II_BADGE44" 		Amount="1" 		Icon="Badge_Name141.dds"	Animated="0"	Name="Ying Yang Badge" />
+	<Badge ID="45" 		Req="HI_USE_ITEM" 		Condition="II_BADGE45" 		Amount="1" 		Icon="Badge_Name121.dds"	Animated="0"	Name="Cash Badge" />
+	<Badge ID="46" 		Req="HI_USE_ITEM" 		Condition="II_BADGE46" 		Amount="1" 		Icon="Badge_Name140.dds"	Animated="0"	Name="Banana Badge" />
+	<Badge ID="47" 		Req="HI_USE_ITEM" 		Condition="II_BADGE47" 		Amount="1" 		Icon="Badge_Name174.dds"	Animated="0"	Name="Pokeball Badge" />
+	<Badge ID="48" 		Req="HI_USE_ITEM" 		Condition="II_BADGE48" 		Amount="1" 		Icon="Badge_Name145.dds"	Animated="0"	Name="Cherry Badge" />
+	<Badge ID="49" 		Req="HI_USE_ITEM" 		Condition="II_BADGE49" 		Amount="1" 		Icon="Badge_Name086.dds"	Animated="0"	Name="Skull Badge" />
+	<Badge ID="50" 		Req="HI_USE_ITEM" 		Condition="II_BADGE50" 		Amount="1" 		Icon="Badge_Name240.dds"	Animated="0"	Name="Bitcoin Badge" />
+	<Badge ID="51" 		Req="HI_USE_ITEM" 		Condition="II_BADGE51" 		Amount="1" 		Icon="Badge_Name241.dds"	Animated="0"	Name="Batman Badge" />
+	<Badge ID="52" 		Req="HI_USE_ITEM" 		Condition="II_BADGE52" 		Amount="1" 		Icon="Badge_Name242.dds"	Animated="0"	Name="Knuckles Badge" />
+	<Badge ID="53" 		Req="HI_USE_ITEM" 		Condition="II_BADGE53" 		Amount="1" 		Icon="Badge_Name330.dds"	Animated="0"	Name="Clown Badge" />
+	<Badge ID="54" 		Req="HI_USE_ITEM" 		Condition="II_BADGE54" 		Amount="1" 		Icon="Badge_Name314.dds"	Animated="0"	Name="Candy Badge" />
+	<Badge ID="55" 		Req="HI_USE_ITEM" 		Condition="II_BADGE55" 		Amount="1" 		Icon="Badge_Name217.dds"	Animated="0"	Name="Sleep Badge" />
+	<Badge ID="56" 		Req="HI_USE_ITEM" 		Condition="II_BADGE56" 		Amount="1" 		Icon="Badge_Name183.dds"	Animated="0"	Name="Beach Badge" />
+	<Badge ID="57" 		Req="HI_USE_ITEM" 		Condition="II_BADGE57" 		Amount="1" 		Icon="Badge_Name170.dds"	Animated="0"	Name="Ring Badge" />
+	<Badge ID="58" 		Req="HI_USE_ITEM" 		Condition="II_BADGE58" 		Amount="1" 		Icon="Badge_Name080.dds"	Animated="0"	Name="Wing Badge" />
+	<Badge ID="59" 		Req="HI_USE_ITEM" 		Condition="II_BADGE59" 		Amount="1" 		Icon="Badge_Name163.dds"	Animated="0"	Name="Feather Badge" />
+	<Badge ID="60" 		Req="HI_USE_ITEM" 		Condition="II_BADGE60" 		Amount="1" 		Icon="Badge_Name142.dds"	Animated="0"	Name="Strawberry Badge" />
+	<Badge ID="61" 		Req="HI_USE_ITEM" 		Condition="II_BADGE61" 		Amount="1" 		Icon="Badge_Name081.dds"	Animated="0"	Name="Castle Badge" />
+	<Badge ID="62" 		Req="HI_USE_ITEM" 		Condition="II_BADGE62" 		Amount="1" 		Icon="Badge_Name082.dds"	Animated="0"	Name="Vampire Badge" />
+	<Badge ID="63" 		Req="HI_USE_ITEM" 		Condition="II_BADGE63" 		Amount="1" 		Icon="Badge_Name084.dds"	Animated="0"	Name="Dark Cat Badge" />
+	<Badge ID="64" 		Req="HI_USE_ITEM" 		Condition="II_BADGE64" 		Amount="1" 		Icon="Badge_Name085.dds"	Animated="0"	Name="R.I.P Badge" />
+	<Badge ID="65" 		Req="HI_USE_ITEM" 		Condition="II_BADGE65" 		Amount="1" 		Icon="Badge_Name204.dds"	Animated="0"	Name="Link Badge" />
+	<Badge ID="66" 		Req="HI_USE_ITEM" 		Condition="II_BADGE66" 		Amount="1" 		Icon="Badge_Name237.dds"	Animated="0"	Name="Flower Badge" />
+	<Badge ID="67" 		Req="HI_USE_ITEM" 		Condition="II_BADGE67" 		Amount="1" 		Icon="Badge_Name127.dds"	Animated="0"	Name="Unicorn Badge" />
+	<Badge ID="68" 		Req="HI_USE_ITEM" 		Condition="II_BADGE68" 		Amount="1" 		Icon="Badge_Name165.dds"	Animated="0"	Name="Artifact Badge" />
+	<Badge ID="69" 		Req="HI_USE_ITEM" 		Condition="II_BADGE69" 		Amount="1" 		Icon="Badge_Name168.dds"	Animated="0"	Name="Demon Badge" />
+	<Badge ID="70" 		Req="HI_USE_ITEM" 		Condition="II_BADGE70" 		Amount="1" 		Icon="Badge_Name079.dds"	Animated="0"	Name="Dog Badge" />
+	<Badge ID="71" 		Req="HI_USE_ITEM" 		Condition="II_BADGE71" 		Amount="1" 		Icon="Badge_Name248.dds"	Animated="0"	Name="Joker Badge" />
+	<Badge ID="72" 		Req="HI_USE_ITEM" 		Condition="II_BADGE72" 		Amount="1" 		Icon="Badge_Name114.dds"	Animated="0"	Name="Stoned Badge" />
+	<Badge ID="73" 		Req="HI_USE_ITEM" 		Condition="II_BADGE73" 		Amount="1" 		Icon="Badge_Name116.dds"	Animated="0"	Name="Bunny Badge" />
+	<Badge ID="74" 		Req="HI_USE_ITEM" 		Condition="II_BADGE74" 		Amount="1" 		Icon="Badge_Name172.dds"	Animated="0"	Name="Hand Badge" />
+	<Badge ID="75" 		Req="HI_USE_ITEM" 		Condition="II_BADGE75" 		Amount="1" 		Icon="Badge_Name305.dds"	Animated="0"	Name="Firework Badge" />
+	<Badge ID="76" 		Req="HI_USE_ITEM" 		Condition="II_BADGE76" 		Amount="1" 		Icon="Badge_Name322.dds"	Animated="0"	Name="Rainbow Badge" />
+	<Badge ID="77" 		Req="HI_USE_ITEM" 		Condition="II_BADGE77" 		Amount="1" 		Icon="Badge_Name196.dds"	Animated="0"	Name="Ufo Badge" />
+	<Badge ID="78" 		Req="HI_USE_ITEM" 		Condition="II_BADGE78" 		Amount="1" 		Icon="Badge_Name194.dds"	Animated="0"	Name="Beer Badge" />
+	<Badge ID="79" 		Req="HI_USE_ITEM" 		Condition="II_BADGE79" 		Amount="1" 		Icon="Badge_Name087.dds"	Animated="0"	Name="Equinox Badge" />
+	<Badge ID="80" 		Req="HI_USE_ITEM" 		Condition="II_BADGE80" 		Amount="1" 		Icon="Badge_Name092.dds"	Animated="0"	Name="Box Badge" />
+	<Badge ID="81" 		Req="HI_USE_ITEM" 		Condition="II_BADGE81" 		Amount="1" 		Icon="Badge_Name318.dds"	Animated="0"	Name="Valentine 2 Badge" />
+	<Badge ID="82" 		Req="HI_USE_ITEM" 		Condition="II_BADGE82" 		Amount="1" 		Icon="Badge_Name236.dds"	Animated="0"	Name="Speed Badge" />
+	<Badge ID="83" 		Req="HI_USE_ITEM" 		Condition="II_BADGE83" 		Amount="1" 		Icon="Badge_Name207.dds"	Animated="0"	Name="Toxic Badge" />
+	<Badge ID="84" 		Req="HI_USE_ITEM" 		Condition="II_BADGE84" 		Amount="1" 		Icon="Badge_Name137.dds"	Animated="0"	Name="Mushroom Badge" />
+	<Badge ID="85" 		Req="HI_USE_ITEM" 		Condition="II_BADGE85" 		Amount="1" 		Icon="Badge_Name181.dds"	Animated="0"	Name="Icecream 2 Badge" />
+	<Badge ID="86" 		Req="HI_USE_ITEM" 		Condition="II_BADGE86" 		Amount="1" 		Icon="Badge_Name205.dds"	Animated="0"	Name="1 UP Badge" />
+	<Badge ID="87" 		Req="HI_USE_ITEM" 		Condition="II_BADGE87" 		Amount="1" 		Icon="Badge_Name296.dds"	Animated="0"	Name="Crafting Badge" />
+	<Badge ID="88" 		Req="HI_USE_ITEM" 		Condition="II_BADGE88" 		Amount="1" 		Icon="Badge_Name133.dds"	Animated="0"	Name="Dragon Badge" />
+	<Badge ID="89" 		Req="HI_USE_ITEM" 		Condition="II_BADGE89" 		Amount="1" 		Icon="Badge_Name328.dds"	Animated="0"	Name="Golden Aibatt Badge" />
+	<Badge ID="90" 		Req="HI_USE_ITEM" 		Condition="II_BADGE90" 		Amount="1" 		Icon="Badge_Name203.dds"	Animated="0"	Name="Sheep Badge" />
+	<Badge ID="91" 		Req="HI_USE_ITEM" 		Condition="II_BADGE91" 		Amount="1" 		Icon="Badge_Name312.dds"	Animated="0"	Name="Skull 2 Badge" />
+	<Badge ID="92" 		Req="HI_USE_ITEM" 		Condition="II_BADGE92" 		Amount="1" 		Icon="Badge_Name132.dds"	Animated="0"	Name="Cookie 2 Badge" />
+	<Badge ID="93" 		Req="HI_USE_ITEM" 		Condition="II_BADGE93" 		Amount="1" 		Icon="Badge_Name317.dds"	Animated="0"	Name="Gold Emblem Badge" />
+	<Badge ID="94" 		Req="HI_USE_ITEM" 		Condition="II_BADGE94" 		Amount="1" 		Icon="Badge_Name134.dds"	Animated="0"	Name="Captain Badge" />
+	<Badge ID="95" 		Req="HI_USE_ITEM" 		Condition="II_BADGE95" 		Amount="1" 		Icon="Badge_Name139.dds"	Animated="0"	Name="Orange Cactus Badge" />
+	<Badge ID="96" 		Req="HI_USE_ITEM" 		Condition="II_BADGE96" 		Amount="1" 		Icon="Badge_Name247.dds"	Animated="0"	Name="Emerald Badge" />
+	<Badge ID="97" 		Req="HI_USE_ITEM" 		Condition="II_BADGE97" 		Amount="1" 		Icon="Badge_Name245.dds"	Animated="0"	Name="Firework 2 Badge" />
+	<Badge ID="98" 		Req="HI_USE_ITEM" 		Condition="II_BADGE98" 		Amount="1" 		Icon="Badge_Name229.dds"	Animated="0"	Name="Cake 2 Badge" />
+	<Badge ID="99" 		Req="HI_USE_ITEM" 		Condition="II_BADGE99" 		Amount="1" 		Icon="Badge_Name144.dds"	Animated="0"	Name="Vodoo Badge" />
+	<Badge ID="100" 	Req="HI_USE_ITEM" 		Condition="II_BADGE100" 	Amount="1" 		Icon="Badge_Name157.dds"	Animated="0"	Name="Excalibur Badge" />
+	
+	<!-- Christmas Badges -->
+	<Badge ID="101" 	Req="HI_USE_ITEM" 		Condition="II_BADGE101" 	Amount="1" 		Icon="Badge_Name231.dds"	Animated="0"	Name="Christmas Socks Badge" />
+	<Badge ID="102" 	Req="HI_USE_ITEM" 		Condition="II_BADGE102" 	Amount="1" 		Icon="Badge_Name230.dds"	Animated="0"	Name="Christmas Cake Badge" />
+	<Badge ID="103" 	Req="HI_USE_ITEM" 		Condition="II_BADGE103" 	Amount="1" 		Icon="Badge_Name234.dds"	Animated="0"	Name="Christmas Cookie Badge" />
+	<Badge ID="104" 	Req="HI_USE_ITEM" 		Condition="II_BADGE104" 	Amount="1" 		Icon="Badge_Name235.dds"	Animated="0"	Name="Christmas Tree Badge" />
+	<Badge ID="105" 	Req="HI_USE_ITEM" 		Condition="II_BADGE105" 	Amount="1" 		Icon="Badge_Name232.dds"	Animated="0"	Name="Christmas Candy Badge" />
+	<Badge ID="106" 	Req="HI_USE_ITEM" 		Condition="II_BADGE106" 	Amount="1" 		Icon="Badge_Name351.dds"	Animated="0"	Name="Christmas Snowflake Badge" />
+	<Badge ID="107" 	Req="HI_USE_ITEM" 		Condition="II_BADGE107" 	Amount="1" 		Icon="Badge_Name324.dds"	Animated="0"	Name="Christmas Hearts Badge" />
+	
+	<!-- Halloween Badges -->
+	<Badge ID="108" 	Req="HI_USE_ITEM" 		Condition="II_BADGE108" 	Amount="1" 		Icon="Badge_Name074.dds"	Animated="0"	Name="Halloween Bats Badge" />
+	<Badge ID="109" 	Req="HI_USE_ITEM" 		Condition="II_BADGE109" 	Amount="1" 		Icon="Badge_Name075.dds"	Animated="0"	Name="Halloween Pumpkin Badge" />
+	<Badge ID="110" 	Req="HI_USE_ITEM" 		Condition="II_BADGE110" 	Amount="1" 		Icon="Badge_Name076.dds"	Animated="0"	Name="Halloween Dark Pumpkin Badge" />
+	<Badge ID="111" 	Req="HI_USE_ITEM" 		Condition="II_BADGE111" 	Amount="1" 		Icon="Badge_Name072.dds"	Animated="0"	Name="Halloween Spook Badge" />
+	<Badge ID="112" 	Req="HI_USE_ITEM" 		Condition="II_BADGE112" 	Amount="1" 		Icon="Badge_Name073.dds"	Animated="0"	Name="Halloween Coffin Badge" />
+	<Badge ID="113" 	Req="HI_USE_ITEM" 		Condition="II_BADGE113" 	Amount="1" 		Icon="Badge_Name071.dds"	Animated="0"	Name="Halloween Skull Badge" />
+	
+	<Badge ID="114" 	Req="HI_USE_ITEM" 		Condition="II_BADGE114" 	Amount="1" 		Icon="Badge_Name293.dds"	Animated="0"	Name="Monopoly Badge" />
+	<Badge ID="115" 	Req="HI_USE_ITEM" 		Condition="II_BADGE115" 	Amount="1" 		Icon="Badge_Name287.dds"	Animated="0"	Name="Parchment Badge" />
+	<Badge ID="116" 	Req="HI_USE_ITEM" 		Condition="II_BADGE116" 	Amount="1" 		Icon="Badge_Name091.dds"	Animated="0"	Name="Pirate Wheel Badge" />
+	
+	<!-- Animated Badges -->
+	<Badge ID="117" 	Req="HI_USE_ITEM" 		Condition="II_BADGE117" 	Amount="1" 		Icon="heart.png"	Animated="1"	Name="Animated Heart Badge" />
+	<Badge ID="118" 	Req="HI_USE_ITEM" 		Condition="II_BADGE118" 	Amount="1" 		Icon="doge.png"		Animated="1"	Name="Animated Doge Badge" />
+	<Badge ID="119" 	Req="HI_USE_ITEM" 		Condition="II_BADGE119" 	Amount="1" 		Icon="butt.png"		Animated="1"	Name="Animated Butt Badge" />
+	
+	<Badge ID="120" 	Req="HI_USE_ITEM" 		Condition="II_BADGE120" 	Amount="1" 		Icon="Animated_Badge01.png"		Animated="1"	Name="Animated Beer Badge" />
+	<Badge ID="121" 	Req="HI_USE_ITEM" 		Condition="II_BADGE121" 	Amount="1" 		Icon="Animated_Badge02.png"		Animated="1"	Name="Animated Bug Cat v2 Badge" />
+	<Badge ID="122" 	Req="HI_USE_ITEM" 		Condition="II_BADGE122" 	Amount="1" 		Icon="Animated_Badge03.png"		Animated="1"	Name="Animated Bug Cat Badge" />
+	<Badge ID="123" 	Req="HI_USE_ITEM" 		Condition="II_BADGE123" 	Amount="1" 		Icon="Animated_Badge04.png"		Animated="1"	Name="Animated Bug Cat v3 Badge" />
+	<Badge ID="124" 	Req="HI_USE_ITEM" 		Condition="II_BADGE124" 	Amount="1" 		Icon="Animated_Badge05.png"		Animated="1"	Name="Animated Bug Cat v4 Badge" />
+	<Badge ID="125" 	Req="HI_USE_ITEM" 		Condition="II_BADGE125" 	Amount="1" 		Icon="Animated_Badge06.png"		Animated="1"	Name="Animated Cupcake Badge" />
+	<Badge ID="126" 	Req="HI_USE_ITEM" 		Condition="II_BADGE126" 	Amount="1" 		Icon="Animated_Badge07.png"		Animated="1"	Name="Animated Yes Dance Badge" />
+	<Badge ID="127" 	Req="HI_USE_ITEM" 		Condition="II_BADGE127" 	Amount="1" 		Icon="Animated_Badge08.png"		Animated="1"	Name="Animated Diamond Badge" />
+	<Badge ID="128" 	Req="HI_USE_ITEM" 		Condition="II_BADGE128" 	Amount="1" 		Icon="Animated_Badge09.png"		Animated="1"	Name="Animated Floating Badge" />
+	<Badge ID="129" 	Req="HI_USE_ITEM" 		Condition="II_BADGE129" 	Amount="1" 		Icon="Animated_Badge10.png"		Animated="1"	Name="Animated Piggy Badge" />
+	<Badge ID="130" 	Req="HI_USE_ITEM" 		Condition="II_BADGE130" 	Amount="1" 		Icon="Animated_Badge11.png"		Animated="1"	Name="Animated Rainbow Dance Badge" />
+	<Badge ID="131" 	Req="HI_USE_ITEM" 		Condition="II_BADGE131" 	Amount="1" 		Icon="Animated_Badge12.png"		Animated="1"	Name="Animated Yes Badge" />
+	<Badge ID="132" 	Req="HI_USE_ITEM" 		Condition="II_BADGE132" 	Amount="1" 		Icon="Animated_Badge13.png"		Animated="1"	Name="Animated Proud Parrot Badge" />
+	<Badge ID="133" 	Req="HI_USE_ITEM" 		Condition="II_BADGE133" 	Amount="1" 		Icon="Animated_Badge14.png"		Animated="1"	Name="Animated Wiggle Badge" />
+	<Badge ID="134" 	Req="HI_USE_ITEM" 		Condition="II_BADGE134" 	Amount="1" 		Icon="Animated_Badge15.png"		Animated="1"	Name="Animated Porn God Badge" />
+	<Badge ID="135" 	Req="HI_USE_ITEM" 		Condition="II_BADGE135" 	Amount="1" 		Icon="Animated_Badge16.png"		Animated="1"	Name="Animated Handicapped Badge" />
+	<Badge ID="136" 	Req="HI_USE_ITEM" 		Condition="II_BADGE136" 	Amount="1" 		Icon="Animated_Badge17.png"		Animated="1"	Name="Animated Miku Badge" />
+	<Badge ID="137" 	Req="HI_USE_ITEM" 		Condition="II_BADGE137" 	Amount="1" 		Icon="Animated_Badge18.png"		Animated="1"	Name="Animated Hip - Hop Dance Badge" />
+	<Badge ID="138" 	Req="HI_USE_ITEM" 		Condition="II_BADGE138" 	Amount="1" 		Icon="Animated_Badge19.png"		Animated="1"	Name="Animated Kekw Badge" />
+	<Badge ID="139" 	Req="HI_USE_ITEM" 		Condition="II_BADGE139" 	Amount="1" 		Icon="Animated_Badge20.png"		Animated="1"	Name="Animated Knuckles Badge" />
+	<Badge ID="140" 	Req="HI_USE_ITEM" 		Condition="II_BADGE140" 	Amount="1" 		Icon="Animated_Badge21.png"		Animated="1"	Name="Animated Lolipop Badge" />
+	<Badge ID="141" 	Req="HI_USE_ITEM" 		Condition="II_BADGE141" 	Amount="1" 		Icon="Animated_Badge22.png"		Animated="1"	Name="Animated Loop Badge" />
+	<Badge ID="142" 	Req="HI_USE_ITEM" 		Condition="II_BADGE142" 	Amount="1" 		Icon="Animated_Badge23.png"		Animated="1"	Name="Animated Siren Badge" />
+	<Badge ID="143" 	Req="HI_USE_ITEM" 		Condition="II_BADGE143" 	Amount="1" 		Icon="Animated_Badge24.png"		Animated="1"	Name="Animated Moon Badge" />
+	<Badge ID="144" 	Req="HI_USE_ITEM" 		Condition="II_BADGE144" 	Amount="1" 		Icon="Animated_Badge26.png"		Animated="1"	Name="Animated Peepo Toxic Badge" />
+	<Badge ID="145" 	Req="HI_USE_ITEM" 		Condition="II_BADGE145" 	Amount="1" 		Icon="Animated_Badge27.png"		Animated="1"	Name="Animated Peppo Love Badge" />
+	<Badge ID="146" 	Req="HI_USE_ITEM" 		Condition="II_BADGE146" 	Amount="1" 		Icon="Animated_Badge28.png"		Animated="1"	Name="Animated Peppo Red Card Badge" />
+	<Badge ID="147" 	Req="HI_USE_ITEM" 		Condition="II_BADGE147" 	Amount="1" 		Icon="Animated_Badge29.png"		Animated="1"	Name="Animated Peppo Disco Badge" />
+	<Badge ID="148" 	Req="HI_USE_ITEM" 		Condition="II_BADGE148" 	Amount="1" 		Icon="Animated_Badge30.png"		Animated="1"	Name="Animated Peppo Hack Badge" />
+	<Badge ID="149" 	Req="HI_USE_ITEM" 		Condition="II_BADGE149" 	Amount="1" 		Icon="Animated_Badge31.png"		Animated="1"	Name="Animated Peppo Hype Badge" />
+	<Badge ID="150" 	Req="HI_USE_ITEM" 		Condition="II_BADGE150" 	Amount="1" 		Icon="Animated_Badge32.png"		Animated="1"	Name="Animated Peppo Punch Badge" />
+	<Badge ID="151" 	Req="HI_USE_ITEM" 		Condition="II_BADGE151" 	Amount="1" 		Icon="Animated_Badge33.png"		Animated="1"	Name="Animated Peppo Sautmm Badge" />
+	<Badge ID="152" 	Req="HI_USE_ITEM" 		Condition="II_BADGE152" 	Amount="1" 		Icon="Animated_Badge35.png"		Animated="1"	Name="Animated Peppo Wink Badge" />
+	<Badge ID="153" 	Req="HI_USE_ITEM" 		Condition="II_BADGE153" 	Amount="1" 		Icon="Animated_Badge36.png"		Animated="1"	Name="Animated Pink Space Badge" />
+	<Badge ID="154" 	Req="HI_USE_ITEM" 		Condition="II_BADGE154" 	Amount="1" 		Icon="Animated_Badge38.png"		Animated="1"	Name="Animated Roses Badge" />
+	<Badge ID="155" 	Req="HI_USE_ITEM" 		Condition="II_BADGE155" 	Amount="1" 		Icon="Animated_Badge39.png"		Animated="1"	Name="Animated Tea Cup Badge" />
+	<Badge ID="156" 	Req="HI_USE_ITEM" 		Condition="II_BADGE156" 	Amount="1" 		Icon="Animated_Badge40.png"		Animated="1"	Name="Animated Pink Wings Badge" />
+	<Badge ID="157" 	Req="HI_USE_ITEM" 		Condition="II_BADGE157" 	Amount="1" 		Icon="Animated_Badge41.png"		Animated="1"	Name="Animated Sparkling Star Badge" />
+	<Badge ID="158" 	Req="HI_USE_ITEM" 		Condition="II_BADGE158" 	Amount="1" 		Icon="Animated_Badge43.png"		Animated="1"	Name="Animated Pink Rocket Badge" />
+	<Badge ID="159" 	Req="HI_USE_ITEM" 		Condition="II_BADGE159" 	Amount="1" 		Icon="Animated_Badge44.png"		Animated="1"	Name="Animated Searching Bunny Badge" />
+	<Badge ID="160" 	Req="HI_USE_ITEM" 		Condition="II_BADGE160" 	Amount="1" 		Icon="Animated_Badge45.png"		Animated="1"	Name="Animated Bongo Cat Badge" />
+	<Badge ID="161" 	Req="HI_USE_ITEM" 		Condition="II_BADGE161" 	Amount="1" 		Icon="Animated_Badge46.png"		Animated="1"	Name="Animated Sharingan Badge" />
+	<Badge ID="162" 	Req="HI_USE_ITEM" 		Condition="II_BADGE162" 	Amount="1" 		Icon="Animated_Badge47.png"		Animated="1"	Name="Animated Spank Badge" />
+	<Badge ID="163" 	Req="HI_USE_ITEM" 		Condition="II_BADGE163" 	Amount="1" 		Icon="Animated_Badge49.png"		Animated="1"	Name="Animated Sweet Sheep Badge" />
+	<Badge ID="164" 	Req="HI_USE_ITEM" 		Condition="II_BADGE164" 	Amount="1" 		Icon="Animated_Badge50.png"		Animated="1"	Name="Animated Like Badge" />
+	<Badge ID="165" 	Req="HI_USE_ITEM" 		Condition="II_BADGE165" 	Amount="1" 		Icon="Animated_Badge51.png"		Animated="1"	Name="Animated Twitch Badge" />
+	<Badge ID="166" 	Req="HI_USE_ITEM" 		Condition="II_BADGE166" 	Amount="1" 		Icon="Animated_Badge52.png"		Animated="1"	Name="Animated Void Badge" />
+	<Badge ID="167" 	Req="HI_USE_ITEM" 		Condition="II_BADGE167" 	Amount="1" 		Icon="Animated_Badge53.png"		Animated="1"	Name="Animated Pink Whale Badge" />
+	<Badge ID="168" 	Req="HI_USE_ITEM" 		Condition="II_BADGE168" 	Amount="1" 		Icon="Animated_Badge54.png"		Animated="1"	Name="Animated Whatchu Lookin At Badge" />
+	<Badge ID="169" 	Req="HI_USE_ITEM" 		Condition="II_BADGE169" 	Amount="1" 		Icon="Animated_Badge55.png"		Animated="1"	Name="Animated Yeah Badge" />
+	<Badge ID="170" 	Req="HI_USE_ITEM" 		Condition="II_BADGE170" 	Amount="1" 		Icon="Animated_Badge56.png"		Animated="1"	Name="Animated Brownie Dance Badge" />
+	<Badge ID="171" 	Req="HI_USE_ITEM" 		Condition="II_BADGE171" 	Amount="1" 		Icon="Animated_Badge57.png"		Animated="1"	Name="Animated Zero Two Bounce Badge" />
+	<Badge ID="172" 	Req="HI_USE_ITEM" 		Condition="II_BADGE172" 	Amount="1" 		Icon="Animated_Badge58.png"		Animated="1"	Name="Animated Zero Two Dance Badge" />
+	<Badge ID="173" 	Req="HI_USE_ITEM" 		Condition="II_BADGE173" 	Amount="1" 		Icon="Animated_Badge59.png"		Animated="1"	Name="Animated Bruh Badge" />
+	<Badge ID="174" 	Req="HI_USE_ITEM" 		Condition="II_BADGE174" 	Amount="1" 		Icon="Animated_Badge60.png"		Animated="1"	Name="Animated Bug Cat v5 Badge" />
+	<Badge ID="175" 	Req="HI_USE_ITEM" 		Condition="II_BADGE175" 	Amount="1" 		Icon="Animated_Badge61.png"		Animated="1"	Name="Animated Bug Cat v6 Badge" />
+	<Badge ID="176" 	Req="HI_USE_ITEM" 		Condition="II_BADGE176" 	Amount="1" 		Icon="Animated_Badge62.png"		Animated="1"	Name="Animated Abdul Pls Badge" />
+	<Badge ID="177" 	Req="HI_USE_ITEM" 		Condition="II_BADGE177" 	Amount="1" 		Icon="Animated_Badge34.png"		Animated="1"	Name="Animated Blue Lolipop Badge" />
+	<Badge ID="178" 	Req="HI_USE_ITEM" 		Condition="II_BADGE178" 	Amount="1" 		Icon="Animated_Badge25.png"		Animated="1"	Name="Animated Octopus Badge" />
+	<Badge ID="179" 	Req="HI_USE_ITEM" 		Condition="II_BADGE179" 	Amount="1" 		Icon="Animated_Badge37.png"		Animated="1"	Name="Animated Bunny Badge" />
+	<Badge ID="180" 	Req="HI_USE_ITEM" 		Condition="II_BADGE180" 	Amount="1" 		Icon="Animated_Badge42.png"		Animated="1"	Name="Animated Coin Badge" />
+	<Badge ID="181" 	Req="HI_USE_ITEM" 		Condition="II_BADGE181" 	Amount="1" 		Icon="Animated_Badge48.png"		Animated="1"	Name="Animated Pink Sheep Badge" />
+	
+	<Badge ID="182" 	Req="HI_USE_ITEM" 		Condition="II_BADGE182" 	Amount="1" 		Icon="Badge_ColorAce.dds"		Animated="0"	Name="Ace Badge" />
+	<Badge ID="183" 	Req="HI_USE_ITEM" 		Condition="II_BADGE183" 	Amount="1" 		Icon="Badge_ColorDiamand.dds"   Animated="0"	Name="Pink Diamond Badge" />
+	<Badge ID="184" 	Req="HI_USE_ITEM" 		Condition="II_BADGE184" 	Amount="1" 		Icon="Badge_ColorMicky.dds"		Animated="0"	Name="Rainbow Mickey Badge" />
+	<Badge ID="185" 	Req="HI_USE_ITEM" 		Condition="II_BADGE185" 	Amount="1" 		Icon="Badge_Groot.dds"		    Animated="0"	Name="Groot Badge" />
+	<Badge ID="186" 	Req="HI_USE_ITEM" 		Condition="II_BADGE186" 	Amount="1" 		Icon="Badge_Pokemon1.dds"		Animated="0"	Name="Pokemon Badge v1" />
+	<Badge ID="187" 	Req="HI_USE_ITEM" 		Condition="II_BADGE187" 	Amount="1" 		Icon="Badge_Pokemon2.dds"		Animated="0"	Name="Pokemon Badge v2" />
+	<Badge ID="188" 	Req="HI_USE_ITEM" 		Condition="II_BADGE188" 	Amount="1" 		Icon="Badge_Pokemon3.dds"		Animated="0"	Name="Pokemon Badge v3" />
+	<Badge ID="189" 	Req="HI_USE_ITEM" 		Condition="II_BADGE189" 	Amount="1" 		Icon="Badge_Pokemon4.dds"		Animated="0"	Name="Pokemon Badge v4" />
+	<Badge ID="190" 	Req="HI_USE_ITEM" 		Condition="II_BADGE190" 	Amount="1" 		Icon="Badge_Pokemon5.dds"		Animated="0"	Name="Pokemon Badge v5" />
+	<Badge ID="191" 	Req="HI_USE_ITEM" 		Condition="II_BADGE191" 	Amount="1" 		Icon="Badge_Pokemon6.dds"		Animated="0"	Name="Pokemon Badge v6" />
+
+	<Badge ID="192" 	Req="HI_USE_ITEM" 		Condition="II_BADGE192" 	Amount="1" 		Icon="Badge_Pokemon7.dds"		Animated="0"	Name="Pokemon Badge v7" />
+	<Badge ID="193" 	Req="HI_USE_ITEM" 		Condition="II_BADGE193" 	Amount="1" 		Icon="Badge_Pokemon8.dds"		Animated="0"	Name="Pokemon Badge v8" />
+	<Badge ID="194" 	Req="HI_USE_ITEM" 		Condition="II_BADGE194" 	Amount="1" 		Icon="Badge_Pokemon9.dds"		Animated="0"	Name="Pokemon Badge v9" />
+	<Badge ID="195" 	Req="HI_USE_ITEM" 		Condition="II_BADGE195" 	Amount="1" 		Icon="Badge_Pokemon10.dds"		Animated="0"	Name="Pokemon Badge v10" />
+	<Badge ID="196" 	Req="HI_USE_ITEM" 		Condition="II_BADGE196" 	Amount="1" 		Icon="badge_littlechicken.png"  Animated="0"	Name="Baby Chick Badge" />
+	<Badge ID="197" 	Req="HI_USE_ITEM" 		Condition="II_BADGE197" 	Amount="1" 		Icon="Badge_TrainerCap.png"		Animated="0"	Name="Trainer Cap Badge" />
+	<Badge ID="198" 	Req="HI_USE_ITEM" 		Condition="II_BADGE198" 	Amount="1" 		Icon="badge_donofthemonth_33.png" Animated="0"	Name="Baby Yoda Badge" />
+	<Badge ID="199" 	Req="HI_USE_ITEM" 		Condition="II_BADGE199" 	Amount="1" 		Icon="badge_donofthemonth_28.png" Animated="0"	Name="Psyduck Badge" />
+	<Badge ID="200" 	Req="HI_USE_ITEM" 		Condition="II_BADGE200" 	Amount="1" 		Icon="badge_glaceon.png"		Animated="0"	Name="Glaceon Badge" />
+
+	<Badge ID="201" 	Req="HI_USE_ITEM" 		Condition="II_BADGE201" 	Amount="1" 		Icon="Badge_TitaniumStaff.png"		Animated="0"	Name="Titanium Badge" />
+	<Badge ID="202" 	Req="HI_USE_ITEM" 		Condition="II_BADGE202" 	Amount="1" 		Icon="BetaBadge.png"		        Animated="0"	Name="Beta Badge" />
+
+	<!-- End Custom Badges -->
+	
+</BadgeProp>

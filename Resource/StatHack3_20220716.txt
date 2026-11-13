@@ -1,0 +1,1 @@
+UserID = 0000013, UserName = Lokiebear [STA:766, INT:1093, DEX:123, STR:123] stats stat points, login returned
