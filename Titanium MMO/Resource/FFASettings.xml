@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<FFASettings>
+    <!--
+        CombatDuration  (Minutes)
+            How long the combat will last
+        SignupDelay     (Minutes)
+            How long people have time to register after the minimum amount of players have registered
+        FightStartDelay (Minutes)
+            Preparation time before combat starts
+        RespawnTimer    (Seconds)
+            How long a user has to wait before respawning when being killed
+    -->
+    <TimeSetting CombatDuration="20" SignupDelay="10" PreparationTime="2" RespawnTimer="10"/>
+    <!--
+        MinLevel
+        MaxLevel        (Number)
+            Level Range the players have to be in
+        MinPlayers      (Number)
+            Amount of players needed to register to trigger the start
+        MaxPlayers      (Number)
+            Amount of players allowed in combat
+        MinPlayersGiveUp
+            Amount of players that need to remain in combat after other people surrendered
+    -->
+    <SignupSetting MinLevel="155" MaxLevel="155" MinPlayers="5" MaxPlayers="75" MinPlayersGiveUp="2"/>
+    <!--
+        REWARDS COUNT PER KILL IN FFA
+        Item            (ID)
+            Item that is being rewarded
+        Amount          (Number)
+            Amount of item being rewarded
+    -->
+    <RewardSetting Item="II_SYS_ROYAL_RUMBLE_TOKEN" Amount="1"/>
+</FFASettings>

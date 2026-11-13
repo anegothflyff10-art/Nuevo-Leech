@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--
+    Vector Positions have to be Int! No Floats!
+
+    List of Days:
+    1: Sunday
+    2: Monday
+    3: Tuesday
+    4: Wednesday
+    5: Thursday
+    6: Friday
+    7: Saturday
+
+    Example Config
+    <WorldBoss ID="MI_AIBATT1" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="1" y="1" z="1"/>
+        <Spawns>
+            <Spawn Day="1" Time="18:00:00"/>
+            <Spawn Day="7" Time="18:00:00"/>
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_WEA_SWO_WOODEN" Count="1" Bind="false"/>
+        </LootTable>
+    </WorldBoss>
+
+-->
+<WorldBossProp>
+
+    <WorldBoss ID="MI_KENTAUROS" Aggro="0" World="WI_WORLD_MADRIGAL">
+        <Vector x="7067" y="100" z="3421" />
+        <Spawns>
+            <Spawn Day="1" Time="8:00:00"/>
+            <Spawn Day="2" Time="8:00:00"/>
+            <Spawn Day="3" Time="8:00:00"/>
+            <Spawn Day="4" Time="8:00:00"/>
+            <Spawn Day="5" Time="8:00:00"/>
+            <Spawn Day="6" Time="8:00:00"/>			
+            <Spawn Day="7" Time="8:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+    <WorldBoss ID="MI_QUKOISOFTHECLEV" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="8517" y="91" z="3164" />
+        <Spawns>
+            <Spawn Day="1" Time="20:00:00"/>
+            <Spawn Day="2" Time="20:00:00"/>			
+            <Spawn Day="3" Time="20:00:00"/>
+            <Spawn Day="4" Time="20:00:00"/>
+            <Spawn Day="5" Time="20:00:00"/>			
+            <Spawn Day="6" Time="20:00:00"/>			
+            <Spawn Day="7" Time="20:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+    <WorldBoss ID="MI_DREADLORD" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="3116" y="9" z="4664" />
+        <Spawns>
+            <Spawn Day="1" Time="16:00:00"/>
+            <Spawn Day="2" Time="16:00:00"/>			
+            <Spawn Day="3" Time="16:00:00"/>
+            <Spawn Day="4" Time="16:00:00"/>
+            <Spawn Day="5" Time="16:00:00"/>			
+            <Spawn Day="6" Time="16:00:00"/>			
+            <Spawn Day="7" Time="16:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+	
+	    <WorldBoss ID="MI_HEADDRAGON" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="3503" y="100" z="2356" />
+        <Spawns>
+            <Spawn Day="1" Time="4:00:00"/>
+            <Spawn Day="2" Time="4:00:00"/>			
+            <Spawn Day="3" Time="4:00:00"/>
+            <Spawn Day="4" Time="4:00:00"/>
+            <Spawn Day="5" Time="4:00:00"/>			
+            <Spawn Day="6" Time="4:00:00"/>			
+            <Spawn Day="7" Time="4:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+	    <WorldBoss ID="MI_RIZONTIE" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="5883" y="104" z="5637" />
+        <Spawns>
+            <Spawn Day="1" Time="12:00:00"/>
+            <Spawn Day="2" Time="12:00:00"/>			
+            <Spawn Day="3" Time="12:00:00"/>
+            <Spawn Day="4" Time="12:00:00"/>
+            <Spawn Day="5" Time="12:00:00"/>			
+            <Spawn Day="6" Time="12:00:00"/>			
+            <Spawn Day="7" Time="12:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+	    <WorldBoss ID="MI_AEVNASS" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="8207" y="70" z="9487" />
+        <Spawns>
+            <Spawn Day="1" Time="00:00:00"/>
+            <Spawn Day="2" Time="00:00:00"/>			
+            <Spawn Day="3" Time="00:00:00"/>
+            <Spawn Day="4" Time="00:00:00"/>
+            <Spawn Day="5" Time="00:00:00"/>			
+            <Spawn Day="6" Time="00:00:00"/>			
+            <Spawn Day="7" Time="00:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="100" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="100" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+	    <WorldBoss ID="MI_MINERVA" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="7147" y="100" z="8291" />
+        <Spawns>
+		
+            <Spawn Day="7" Time="14:00:00"/>		
+        </Spawns>
+        <LootTable>
+             <Loot ID="II_TOKEN_WLD_BOSS" Count="700" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="1000" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+	    <WorldBoss ID="MI_NIMAH" Aggro="1" World="WI_WORLD_MADRIGAL">
+        <Vector x="4992" y="90" z="9087" />
+        <Spawns>
+		
+            <Spawn Day="1" Time="9:00:00"/>		
+        </Spawns>
+        <LootTable>
+            <Loot ID="II_TOKEN_WLD_BOSS" Count="700" Bind="false" />
+		    <Loot ID="II_SYS_GLYPH_SHARD" Count="1000" Bind="false" />
+        </LootTable>
+    </WorldBoss>
+
+</WorldBossProp>

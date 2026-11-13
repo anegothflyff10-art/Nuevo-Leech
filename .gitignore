@@ -1,0 +1,25 @@
+# Carpetas pesadas que no deben subirse
+.vs/
+Output/
+Bins/
+**/Bins/
+
+# Filtros de seguridad para subcarpetas
+**/*.exe
+**/*.pdb
+**/*.idb
+**/*.map
+**/*.lib
+**/*.dll
+**/*.obj
+**/*.suo
+**/*.vsidx
+**/*.db
+/Bins/ClientBins/Win32/Debug
+/Bins
+/Bins
+*.vcxproj
+*.vcxproj
+*.pch
+*.vcxproj
+Source/GameSource/WORLDSERVER/WorldServer80.vcxproj
