@@ -1,2 +1,0 @@
-UserID = 0000002, UserName = Miksik [STA:20, INT:20, DEX:20, STR:41253] stats stat points, login returned
-UserID = 0000002, UserName = Miksik [STA:20, INT:20, DEX:20, STR:41253] stats stat points, login returned

@@ -1,2 +1,0 @@
-#b#cff0000ff Ultimate Weapon Conversion #nb#nc
-You can convert a Unique +10 weapon to an Ultimate weapon using a Jewel that corresponds with the level required to wield the weapon and a Shining Oricalkum. If the conversion fails all materials will be destroyed, including the weapon. (Prevent the loss of the weapon by using a Scroll of XProtect before you begin the conversion.)

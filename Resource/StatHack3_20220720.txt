@@ -1,3 +1,0 @@
-UserID = 0000025, UserName = CatWater [STA:204, INT:583, DEX:158, STR:1118] stats stat points, login returned
-UserID = 0000025, UserName = CatWater [STA:219, INT:598, DEX:173, STR:1133] stats stat points, login returned
-UserID = 0000025, UserName = CatWater [STA:219, INT:598, DEX:173, STR:1133] stats stat points, login returned
